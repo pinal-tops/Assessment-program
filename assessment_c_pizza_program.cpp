@@ -89,8 +89,8 @@ int main()
 		}
 		
 	printf("\nDo you want to add more ?");
-	printf("\n1   - Press 1 for Yes ");
-	printf("\n2   - Press 2 for No \nans - ");
+	printf("\n1   - Enter 1 for Yes ");
+	printf("\n2   - Enter 2 for No \nans - ");
 	scanf("%d",&yn);
 		if(yn==1)
 		{
